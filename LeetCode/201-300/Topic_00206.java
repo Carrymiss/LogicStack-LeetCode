@@ -8,7 +8,7 @@ import java.util.Stack;
  * @Author: ZTY
  * @Create: 2022-10-11
  * @Time: 19:48
- * @Description: 题目3 : 反转链表
+ * @Description: 题目206 : 反转链表
  */
 public class Topic_00206 {
     /**
