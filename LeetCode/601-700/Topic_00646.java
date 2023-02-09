@@ -8,7 +8,7 @@ import java.util.Arrays;
  * @Time: 8:49
  * @Description: 题目646：最长数对链
  */
-public class Topic_practise_00646 {
+public class Topic_00646 {
     /**
      * 方法一: 排序+贪心
      */
