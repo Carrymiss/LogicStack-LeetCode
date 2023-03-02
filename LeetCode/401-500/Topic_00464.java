@@ -9,7 +9,7 @@ import java.util.Map;
  * @Time: 9:04
  * @Description: 题目464：我能赢吗
  */
-public class Topic_practise_00464 {
+public class Topic_00464 {
     /**
      * 方法一：记忆化搜索+状态压缩
      * <p>Sprague-Grundy定理
